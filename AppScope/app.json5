@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.webcookieplayground",
+    "bundleName": "com.hmosdemos.wearable.web_cookie_playground",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",
