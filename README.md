@@ -9,7 +9,7 @@ The app features a modern watch-friendly UI and provides quick actions to set, f
 
 <div>
   <img src="screenshots/ss1.png" width="25%">
-  <img src="screenshots/ss2.PNG" width="25%">
+  <img src="screenshots/ss2.png" width="25%">
 </div>
 
 # Use Cases
@@ -63,4 +63,5 @@ Huawei Watch 5
 # LICENSE
 
 WebCookiePlayground is distributed under the terms of the MIT License.  
+
 See the [LICENSE](/LICENSE) for more information.
